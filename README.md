@@ -9,7 +9,7 @@ The tutorials have been tested in **Linux** and **WSL**. Currently working with 
 4. Husky Simulation
 5. STDR (Coming soon)
 
-More to come, stay tuned. Or send me a request and I will work on it on my spare time.
+More to come, stay tuned. Or send me a request and I will work on it on my spare time. If you would like to contribute, that's also very welcome, send me a message and we can figure out how.
 
 ## TIAGo Simulator
 ![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_simulation.jpg)
