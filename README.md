@@ -13,3 +13,5 @@ More to come, stay tuned. Or send me a request and I will work on it on my spare
 ![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_animation_v3.gif)
 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/pr2_simulation.jpg)
+
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/husky_simulator.jpg)
