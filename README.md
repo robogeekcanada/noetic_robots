@@ -1,7 +1,7 @@
 # noetic_robots
 
 A collection of tutorials to make robots that are oldies but goodies work in **ROS Noetic**.
-The tutorials have been tested in linux and WSL. Currently working with RoboStack team to make them work in Windows but it will be a while and I will create a different repo.
+The tutorials have been tested in **Linux** and **WSL**. Currently working with RoboStack team to make them work in Windows but it will be a while and I will create a different repo.
 
 1. TIAGo Simulation
 2. TIAGo Tutorials
