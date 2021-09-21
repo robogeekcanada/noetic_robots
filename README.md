@@ -7,7 +7,8 @@ The tutorials have been tested in **Linux** and **WSL**. Currently working with 
 2. TIAGo Tutorials
 3. PR2 Simulation
 4. Husky Simulation
-5. STDR (Coming soon)
+5. STDR Simulation
+6. Baxter Simulation (work in Progress)
 
 More to come, stay tuned. Or send me a request and I will work on it on my spare time. If you would like to contribute, that's also very welcome, send me a message and we can figure out how.
 
@@ -19,3 +20,6 @@ More to come, stay tuned. Or send me a request and I will work on it on my spare
 
 ## Husky Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/husky_simulator.jpg)
+
+## STDR Simulator
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/STDR_simulation.jpg)
