@@ -10,4 +10,4 @@ More to come, stay tuned. Or if you have a request, send me a message I will wor
 
 ![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_animation_v3.gif)
 
-![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/pr2_robot.png)
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/pr2_simulation.jpg)
