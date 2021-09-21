@@ -11,8 +11,11 @@ The tutorials have been tested in **Linux** and **WSL**. Currently working with 
 
 More to come, stay tuned. Or send me a request and I will work on it on my spare time.
 
+## TIAGo Simulator
 ![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_simulation.jpg)
 
+## PR2 Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/pr2_simulation.jpg)
 
+## Husky Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/husky_simulator.jpg)
