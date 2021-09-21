@@ -8,7 +8,7 @@ The tutorials have been tested in **Linux** and **WSL**. Currently working with 
 3. PR2 Simulation
 4. Husky Simulation (Coming soon)
 
-More to come, stay tuned. Or if you have a request, send me a message I will work on it on my spare time.
+More to come, stay tuned. Or send me a request and I will work on it on my spare time.
 
 ![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_animation_v3.gif)
 
