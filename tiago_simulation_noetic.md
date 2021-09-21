@@ -270,7 +270,7 @@ File location: tiago_ws/src/tiago_simulation/tiago_gazebo/launch
   </group>
 ```
 
-##4. TEST LAUNCH FILE
+## 4. TEST LAUNCH FILE
 That's it, ready to test.
 
 ```
@@ -278,8 +278,10 @@ $ cd tiago_ws/src/tiago_simulation/tiago_gazebo/launch/
 $ roslaunch tiago_gazebo tiago_gazebo2.launch
 ```
 
+![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_simulation.jpg)
 
 
+You made it! Well done. Next step make TIAGo Tutorials work.
 
 
 
