@@ -1,7 +1,11 @@
 # noetic_robots
-This repo goal is to be a collection of tutorials to make oldies but goodies robots work in ROS Noetic:
+
+A collection of tutorials to make robots that are oldies but goodies work in **ROS Noetic**:
 
 1. TIAGo Simulation
-2. PR2
+2. TIAGo Tutorials
+3. PR2
 
-More to come, stay tuned. Or if you have a request, send me a message.
+More to come, stay tuned. Or if you have a request, send me a message I will work on it on my spare time.
+
+![Image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TIAGo_animation_v3.gif)
