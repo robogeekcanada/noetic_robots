@@ -1,6 +1,6 @@
 # noetic_robots
 
-A collection of tutorials on how to rescue robot simulations that are old but goodies to make them work in **ROS Noetic**.
+A collection of tutorials on how to rescue robot simulations that are old but goodies to make them work in **[ROS Noetic](http://wiki.ros.org/noetic)**.
 The tutorials have been tested in **Linux** and **WSL**. Currently contributing to [RoboStack](https://github.com/RoboStack/ros-noetic) team to make them work in Windows but it will be a while and when ready I will create a separate repo.
 
 1. TIAGo Simulation
