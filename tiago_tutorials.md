@@ -1,3 +1,7 @@
+<img src="https://github.com/robogeekcanada/noetic_robots/blob/main/images/RG-logo.jpg" alt="alt text" width=100 height=150>
+
+[@robogeekcanada](https://robo-geek.ca/)
+
 # TIAGo Tutorials
 
 Based on this repo: https://github.com/pal-robotics/tiago_tutorials last updated ROS Kinetic with Python 2.
@@ -97,7 +101,7 @@ Once you are able to succesful compiled tiago_tutorials workspace, then:
 $ roslaunch tiago_gazebo tiago_gazebo2.launch
 $ roslaunch demo_motions motions.launch
 ```
-Hint: Follow the additional instructions to enable motion.
+**Hint**: Follow the additional instructions to enable motion.
 
 
 
