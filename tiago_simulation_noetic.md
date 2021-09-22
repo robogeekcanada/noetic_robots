@@ -1,3 +1,7 @@
+<img src="https://github.com/robogeekcanada/noetic_robots/blob/main/images/RG-logo.jpg" alt="alt text" width=100 height=150>
+
+[@robogeekcanada](https://robo-geek.ca/)
+
 # TIAGo Simulation installation in ROS NOETIC
 
 In this tutorial we will build TIAGo Simulation from source to be able to run in ROS Kinetic. We will fix all dependencies in the process as well.
