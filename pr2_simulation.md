@@ -1,3 +1,7 @@
+<img src="https://github.com/robogeekcanada/noetic_robots/blob/main/images/RG-logo.jpg" alt="alt text" width=100 height=150>
+
+[@robogeekcanada](https://robo-geek.ca/)
+
 # PR2 Simulator installation for ROS Noetic
 
 PR2 has a special place in the ROS community heart http://wiki.ros.org/Robots/PR2. 
