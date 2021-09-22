@@ -1,6 +1,6 @@
 # noetic_robots
 
-A collection of tutorials on how to make robot simulations that are old but goodies work in **ROS Noetic**.
+A collection of tutorials on how to rescue robot simulations that are old but goodies work in **ROS Noetic**.
 The tutorials have been tested in **Linux** and **WSL**. Currently working with RoboStack team to make them work in Windows but it will be a while and I will create a different repo.
 
 1. TIAGo Simulation
@@ -8,7 +8,8 @@ The tutorials have been tested in **Linux** and **WSL**. Currently working with 
 3. PR2 Simulation
 4. Husky Simulation
 5. STDR Simulation
-6. Baxter Simulation (work in Progress)
+6. Robonaut 2 Simulation (Work in Progress)
+7. Baxter Simulation (work in Progress)
 
 More to come, stay tuned. Or send me a request and I will work on it on my spare time. If you would like to contribute, that's also very welcome, send me a message and we can figure out how.
 
