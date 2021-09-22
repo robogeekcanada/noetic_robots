@@ -1,3 +1,7 @@
+<img src="https://github.com/robogeekcanada/noetic_robots/blob/main/images/RG-logo.jpg" alt="alt text" width=100 height=150>
+
+[@robogeekcanada](https://robo-geek.ca/)
+
 # noetic_robots
 
 A collection of tutorials on how to rescue robot simulations that are old but goodies to make them work in **[ROS Noetic](http://wiki.ros.org/noetic)**.
