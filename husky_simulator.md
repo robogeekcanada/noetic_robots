@@ -1,3 +1,7 @@
+<img src="https://github.com/robogeekcanada/noetic_robots/blob/main/images/RG-logo.jpg" alt="alt text" width=100 height=150>
+
+[@robogeekcanada](https://robo-geek.ca/)
+
 # Husky Simulator Installation ROS Noetic Tutorial
 
 ## 1. Install Dependencies
