@@ -29,3 +29,12 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 
 ## STDR Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/STDR_simulation.jpg)
+
+# Assumptions when using these Tutorials:
+
+1. You are not new to ROS, have a bit of experience with building packages and know how to launch nodes.
+2. Tutorials have been tested in Ubuntu 20.04 and WSL Ubuntu 20.04 only
+3. You have some basic knowledge of OpenCV, C++ and Python.
+4. You have a few hours to work on this. It's can get tedious. 
+
+The goal is to do the minimum changes to the package as possible. These are not intended to be the official ROS Noetic packages, that's why I kept it as tutorials and will share files only when it's absolutely necessary. I personally enjoy the process of troubleshooting and I try to stay discipline when it comes to documenting my steps. This is a way for me to give back to Open Source community.
