@@ -25,7 +25,7 @@ $ catkin_make
 Wow! So many errors to fix. Too many to even try to make a tutorial out of it. This document helped a lot: https://github.com/osrf/gazebo/blob/gazebo11/Migration.md
 Worked methodically, fixing one error at the time, it was great exercise to understand how the code works, so I believe it was time well spent, but I am sure not many will enjoy it.
 
-So rather I will share the fix files in this 100MB+ [zip file](https://drive.google.com/file/d/14shpFtEdgp8yd5pb-BQ-Klayr7dljwap/view?usp=sharing). You are welcome to compare the codes and see what was changed. This exercise took 2 afternoons/nights and lots of coffee. I am sure it's not 100% right, but I got it compiled with no errors.
+So rather I will share the fix files in this 100MB+ [zip file](https://drive.google.com/file/d/14shpFtEdgp8yd5pb-BQ-Klayr7dljwap/view?usp=sharing). You are welcome to compare the codes and see what has changed. This exercise took 2 afternoons/nights and lots of coffee. I am sure it's not 100% right, but I got it compiled with no errors and no warnings.
 
 Once compiled, then it's time to source it and test...
 
@@ -56,10 +56,10 @@ Load Robonaut directly from gazebo library of models and create a simple launch 
 export GAZEBO_RESOURCE_PATH=~/omar_ws/src/robonaut2_ws/src/gazebo/worlds/
 export GAZEBO_MODEL_PATH=~/omar_ws/src/robonaut2_ws/src/gazebo/models/
 
-I have been able to produced 5 test launch files to load worlds and objects. Next step is to play with the models establish services, nodes, etc. My intent is to use as much as possible the original code, but will definitely work on the simulation separately.
+I have been able to produce 5 test launch files to load worlds and objects. Next step is to play with the models establish services, nodes, etc. My intent is to use as much as possible the original code, but I will definitely work on the simulation separately. If someone knows an automatic process, please share. I am sure this will be useful in the future.
 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/robonaut_iss.jpg)
 
-I will update as I make progress. 
+That's it. I will keep the updates as I make progress. 
 
 
