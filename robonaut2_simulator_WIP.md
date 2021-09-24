@@ -53,12 +53,15 @@ Load Robonaut directly from gazebo library of models and create a simple launch 
 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/robonaut_topics.jpg)
 
+Useful info, how to source in Gazebo:
+```
 export GAZEBO_RESOURCE_PATH=~/omar_ws/src/robonaut2_ws/src/gazebo/worlds/
 export GAZEBO_MODEL_PATH=~/omar_ws/src/robonaut2_ws/src/gazebo/models/
+```
 
 I have been able to produce 5 test launch files to load worlds and objects. Next step is to play with the models establish services, nodes, etc. My intent is to use as much as possible the original code, but I will definitely work on the simulation separately. If someone knows an automatic process, please share. I am sure this will be useful in the future.
 
-![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/robonaut_iss.jpg)
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/robonaut_iss.PNG)
 
 That's it. I will keep the updates as I make progress. 
 
