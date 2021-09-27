@@ -293,6 +293,15 @@ $ source ~/.bashrc
 ```
 Compiling Errors too many but will take a look at the latest branch of `talos_robot` for clues
 
+## 2. Simulation
+
+Decided to test simulation at this stage knowing that PAL Transmissions is not compiled and there will be some errors. However I was pleasantly surprised that with just minor change, I got some early good result.
+
+I created a `talos_gazebo2.launch` file that is identical to `talos_gazebo.launch` file but I removed the `$arg simulation` line that was causing an error and this the result:
+
+One step closer to have this simulation working :)
+
+
 # Progress Notes: Sept 27-2021
 
 1. Good news only one pending dependency left to compile: PAL TRANSMISSIONS
