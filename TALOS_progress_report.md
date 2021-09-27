@@ -268,7 +268,7 @@ $ make install
 $ cd
 $ mkdir -p talos_robot2/src
 $ cd talos_robot2/src
-$ git clone git clone -b dae_meshes_with_color https://github.com/pal-robotics/talos_robo
+$ git clone -b dae_meshes_with_color https://github.com/pal-robotics/talos_robo
 t.git
 $ cd ..
 $ catkin_make
