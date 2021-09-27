@@ -277,7 +277,8 @@ $ source ~/.bashrc
 
 ```
 **Compiling error**: Couldn't link, several attempts. Raised [ROS question](https://answers.ros.org/question/387398/how-to-add-so-file-to-catkin-workspace/ )
-Fix: Decided to clone the latest branch instead `dae_meshes_with_color`.
+
+**Fix:** Decided to clone the latest branch instead `dae_meshes_with_color`.
 
 ### PAL TRANSMISSIONS
 ```bash
