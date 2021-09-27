@@ -121,7 +121,7 @@ $ catkin_make
 $ echo 'source ~/gazebo_ros_pkgs/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
 ```
-```
+
 ### PAL HARDWARE GAZEBO
 ```bash
 $ cd
