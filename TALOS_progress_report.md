@@ -300,6 +300,6 @@ Compiling Errors too many but will take a look at the latest branch of `talos_ro
 3. ~~Hardware compiling errors may require more time than I expected. 
 One approach may be to compile old libraries but based on the readings it may cause issues on behaviours, so I will go on the route of fixing by using the current ROS Control libraries but not sure what I am getting myself into.~~ Found ways to fix as per progress report
 4. ~~RBDL installation is not trivial, so I will study before proceeding on installing this library, but it will my next action to take.~~ RBDL installed
-5. Tested some of the launch files, they worked, Gazebo launch don't due to xml incompatiblities. Will work on that next.
+5. Tested some of the launch files, they worked, however Gazebo launch files don't work due to xml incompatiblities. Will work on that next.
 
 I will keep the updates. If you have any ideas please share.
