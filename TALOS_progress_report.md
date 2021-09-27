@@ -110,6 +110,17 @@ $ cd ..
 $ catkin_make
 $ echo 'source ~/dynamic_introspection/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
+### GAZEBO ROS PKGS
+```bash
+$ cd
+$ mkdir -p gazebo_ros_pkgs/src
+$ cd gazebo_ros_pkgs/src
+$ git clone -b noetic-devel https://github.com/pal-robotics-forks/gazebo_ros_pkgs.git
+$ cd ..
+$ catkin_make
+$ echo 'source ~/gazebo_ros_pkgs/devel/setup.bash'>>~/.bashrc
+$ source ~/.bashrc
+```
 ```
 ### PAL HARDWARE GAZEBO
 ```bash
@@ -122,12 +133,14 @@ $ catkin_make
 $ echo 'source ~/pal_hardware_gazebo/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
 ```
-**Compiling errors**:
+
+**Sept 27-2021:**
+With Gazebo ROS PKGS compiled, then PAL Hardware Gazebo compiled no issues as well
+
+**Sept 25-2021: Compiling errors**:
 
 1. For now commented line 280, will get back to it -- not good to mess with transmission :|
-2. Second error is an open issue since Nov 2020 https://github.com/pal-robotics/pal_hardware_gazebo/issues/4. It requires the use `gazebo_ros_pkgs` but that means uninstalling and affecting other dependencies, so not a good solution. Comment lines for now, let's see what happens...
-
-   It compiles but of course we need to fix this.
+2. Second error is an open issue since Nov 2020 https://github.com/pal-robotics/pal_hardware_gazebo/issues/4. It requires the use `gazebo_ros_pkgs` but that means uninstalling and affecting other dependencies, so not a good solution. Comment lines for now, let's see what happens. It compiles but of course we need to fix this.
 
 ### PAL MSGS
 ```bash
@@ -240,20 +253,31 @@ $ echo 'source ~/robotics_group_gazebo_plugins/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
 ```
 ### RBDL
-Pending installation, need to follow the instructions from repo. A little concern about dependencies so I need to do more investigation
+```bash
+$ git clone --recursive https://github.com/ORB-HD/rbdl-orb
+$ mkdir rbdl-build
+$ cd rbdl-build
+$ cmake .. -DRBDL_BUILD_PYTHON_WRAPPER=ON -DCMAKE_INSTALL_PREFIX=~/catkin_ws/rbdl_ws/install -DRBDL_BUILD_ADDON_URDFREADER=ON -DRBDL_USE_ROS_URDF_LIBRARY=OFF -Wno-dev
+$ make
+$ make install
+```
+**Credit:** https://www.reddit.com/r/ROS/comments/phl7nk/install_rbdlorb_on_ros_noetic/
 
 ### TALOS ROBOT
 ```bash
 $ cd
-$ mkdir -p talos_robot/src
-$ cd talos_robot/src
-$ git clone https://github.com/pal-robotics/talos_robot.git
+$ mkdir -p talos_robot2/src
+$ cd talos_robot2/src
+$ git clone git clone -b dae_meshes_with_color https://github.com/pal-robotics/talos_robo
+t.git
 $ cd ..
 $ catkin_make
-$ echo 'source ~/talos_robot/devel/setup.bash'>>~/.bashrc
+$ echo 'source ~/talos_robot2/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
+
 ```
-Compiling error: Missing `rbdl` 
+**Compiling error**: Couldn't link, several attempts. Raised [ROS question](https://answers.ros.org/question/387398/how-to-add-so-file-to-catkin-workspace/ )
+Fix: Decided to clone the latest branch instead `dae_meshes_with_color`.
 
 ### PAL TRANSMISSIONS
 ```bash
@@ -266,14 +290,15 @@ $ catkin_make
 $ echo 'source ~/pal_transmissions/devel/setup.bash'>>~/.bashrc
 $ source ~/.bashrc
 ```
-Compiling Errors too many
+Compiling Errors too many but will take a look at the latest branch of `talos_robot` for clues
 
-# Progress Notes
+# Progress Notes: Sept 27-2021
 
-1. Good news many of the dependencies compile with no issues
-2. Concerns about Gazebo dependencies
-3. Hardware compiling errors may require more time than I expected. 
-One approach may be to compile old libraries but based on the readings it may cause issues on behaviours, so I will go on the route of fixing by using the current ROS Control libraries but not sure what I am getting myself into.
-4. RBDL installation is not trivial, so I will study before proceeding on installing this library, but it will my next action to take.
+1. Good news only one pending dependency left to compile: PAL TRANSMISSIONS
+2. ~~Concerns about Gazebo dependencies~~ All Gazebo dependencies built.
+3. ~~Hardware compiling errors may require more time than I expected. 
+One approach may be to compile old libraries but based on the readings it may cause issues on behaviours, so I will go on the route of fixing by using the current ROS Control libraries but not sure what I am getting myself into.~~ Found ways to fix as per progress report
+4. ~~RBDL installation is not trivial, so I will study before proceeding on installing this library, but it will my next action to take.~~ RBDL installed
+5. Tested some of the launch files, they worked, Gazebo launch don't due to xml incompatiblities. Will work on that next.
 
 I will keep the updates. If you have any ideas please share.
