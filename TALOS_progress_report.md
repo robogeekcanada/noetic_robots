@@ -299,6 +299,8 @@ Decided to test simulation at this stage knowing that PAL Transmissions is not c
 
 I created a `talos_gazebo2.launch` file that is identical to `talos_gazebo.launch` file but I removed the `$arg simulation` line that was causing an error and this the result:
 
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TALOS_without_transmission.PNG)
+
 One step closer to have this simulation working :)
 
 
