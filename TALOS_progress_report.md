@@ -303,6 +303,7 @@ I created a `talos_gazebo2.launch` file that is identical to `talos_gazebo.launc
 
 One step closer to have this simulation working :)
 
+Next step it's to fix PAL HARDWARE GAZEBO re-compile it and fix the errors.
 
 # Progress Notes: Sept 27-2021
 
