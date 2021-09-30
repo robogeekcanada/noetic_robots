@@ -14,7 +14,8 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 5. STDR Simulation
 6. Copernicus Simulation
 7. TALOS Simulation
-8. Robonaut 2 Simulation (Progress Report available)
+8. Thormang3 Simulation
+9. Robonaut 2 Simulation (Progress Report available)
 10. Baxter Simulation (Work in Progress)
 
 More to come so stay tuned. If you would like me to work on a particular robot, please send me a request and I will work on it on my spare time. I list the robot simulations that are work in progress. It usually takes me 2-5 days to get them working. It all depends on my time availability and complexity. If you would like to contribute, that's also very welcome, send me a message to osilva@robogeekcanada.com and we can figure out how. 
@@ -36,6 +37,9 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 
 ## TALOS Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TALOS_partial_launches.PNG)
+
+## Thormang3 Simulator
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/Thormang3_Simulation.PNG)
 
 # Assumptions when using these Tutorials:
 
