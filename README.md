@@ -46,6 +46,6 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 1. You are not new to ROS, have a bit of experience with building packages and know how to launch nodes.
 2. Tutorials have been tested in Ubuntu 20.04 and WSL Ubuntu 20.04 only
 3. You have some basic knowledge of OpenCV, C++ and Python.
-4. You have a few hours to work on this. It's can get tedious. 
+4. You have a few hours to work on this. 
 
-The goal is to make the minimum amount of changes to the original package as possible. These are not intended to be the official ROS Noetic packages, that's why I kept it as tutorials and will share files only when it's absolutely necessary. I personally enjoy the process of troubleshooting these upgrades. I try to stay discipline and document my steps as best as possible. Finally, this is a small way for me to give back to Open Source community.
+The goal is to make the minimum amount of changes to the original package as possible. These are not intended to be the official ROS Noetic packages, that's why I kept it as tutorials and will share files only when it's absolutely necessary. I personally enjoy the process of troubleshooting these upgrades. I try to stay discipline and document my steps as best as possible. Thank you for taking the time to visit this repo. This is a small way for me to give back to Open Source community.
