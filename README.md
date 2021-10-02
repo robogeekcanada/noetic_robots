@@ -15,8 +15,8 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 6. Copernicus Simulation
 7. TALOS Simulation
 8. Thormang3 Simulation
-9. Robonaut 2 Simulation (Progress Report available)
-10. Baxter Simulation (Work in Progress, Progress report coming soon)
+9. Baxter Simulation
+10. Robonaut 2 Simulation (Progress Report available) 
 11. Nao robot Simulation (Research/Planning stage)
 12. Scurius17 Simulation (Research/Planning stage)
 13. BipedRobin Simulation (Research/Planning stage)
@@ -44,6 +44,9 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 
 ## Thormang3 Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/Thormang3_Simulation.PNG)
+
+## Baxter Simulator
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Baxter%20simulator.PNG)
 
 # Assumptions when using these Tutorials:
 
