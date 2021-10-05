@@ -85,5 +85,7 @@ Motor control also working well as can be seen in the position of the arms and h
 
 ## To Do
 
-1. Troubleshoot camera node. It runs but can't obtain image yet.
+1. ~~Troubleshoot camera node. It runs but can't obtain image yet.~~ Both cameras working
 2. Incorporate transmission tags.
+
+![Sciurus17_Camera](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_Camera.PNG)
