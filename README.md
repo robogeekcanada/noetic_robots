@@ -16,9 +16,9 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 7. TALOS Simulation
 8. Thormang3 Simulation
 9. Baxter Simulation
-10. Robonaut 2 Simulation (Progress Report available) 
+10. Robonaut 2 Simulation (**Progress Report available**) 
 11. Nao robot Simulation (Research/Planning stage)
-12. Scurius17 Simulation (Progress report coming soon)
+12. Scurius17 Simulation (**Progress report available**)
 13. BipedRobin Simulation (Research/Planning stage)
 14. HiroNXO Simulation (Research/Planning stage)
 
