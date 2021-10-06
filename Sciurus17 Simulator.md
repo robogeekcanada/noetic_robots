@@ -69,15 +69,8 @@ $ source ~/.bashrc
 $ roslaunch sciurus17_gazebo sciurus17_with_table2.launch
 ```
 
-Lots of issues regarding loading urdf files. So in troubleshooting, decided to create a single urdf and test it in PyBullet first.
-`sciurus17_with_table2.launch` to launch `sciurus17_3.urdf.xacro`
+Make sure to save `sciurus17_with_table2.launch` in the `sciurus17_gazebo/launch` folder.
 
-Still work in progress and will share when files completed. Basically I removed macros to simplify the troubleshooting.
-Encouraging results URDF loads in PyBullet:
-
-![Sciurus17_pybullet](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_pybullet.PNG)
-
-and Gazebo:
 
 ![Sciurus17_Gazebo](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_Gazebo.PNG)
 
@@ -87,6 +80,8 @@ Motor control also working well as can be seen in the position of the arms and h
 
 In the last revision of `sciurus17_3.urdf.xacro` transmission was also fixed. There are warnings regarding PID but that has to do with Gazebo control. 
 The reader is welcome to pursue the final fix as a way to understand. Hint: Work on .yaml files fake controls.
+
+Make sure to save `sciurus17_3.urdf.xacro` in `sciurus17_description/urdf` folder
 
 # Final Conclusions
 Working on Sciurus17 was a great experience. In the process I learned a lot how xacro:macro work and I spent more time on making the simulation to work but the code works
