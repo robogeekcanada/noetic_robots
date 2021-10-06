@@ -16,11 +16,11 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 7. TALOS Simulation
 8. Thormang3 Simulation
 9. Baxter Simulation
-10. Robonaut 2 Simulation (**Progress Report available**) 
-11. Nao robot Simulation (Research/Planning stage)
-12. Scurius17 Simulation (**Progress report available**)
-13. BipedRobin Simulation (Research/Planning stage)
-14. HiroNXO Simulation (Research/Planning stage)
+10. Sciurus17 Simulation
+11. Robonaut 2 Simulation (**Progress Report available**) 
+12. Nao robot Simulation (Research/Planning stage)
+14. BipedRobin Simulation (Research/Planning stage)
+15. HiroNXO Simulation (Research/Planning stage)
 
 More to come so stay tuned. If you would like me to work on a particular robot, please send me a request and I will work on it on my spare time. I list the robot simulations that are work in progress. It usually takes me 2-5 days to get them working. It all depends on my time availability and complexity. If you would like to contribute, that's also very welcome, send me a message to osilva@robogeekcanada.com and we can figure out how. 
 
@@ -47,6 +47,9 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 
 ## Baxter Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Baxter%20simulator.PNG)
+
+## Sciurus17 Simulator
+![Sciurus17_Gazebo](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_Gazebo.PNG)
 
 # Assumptions when using these Tutorials:
 
