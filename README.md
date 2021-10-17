@@ -17,8 +17,9 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 8. Thormang3 Simulation
 9. Baxter Simulation
 10. Sciurus17 Simulation
-11. Robonaut 2 Simulation (**Progress Report available**) 
-12. Nao robot Simulation (**Progress Report available**)
+11. Nao robot Simulation
+12. Pepper robot (Progress Report coming soon)
+13. Robonaut 2 Simulation (**Progress Report available**) 
 14. BipedRobin Simulation (Research/Planning stage)
 15. HiroNXO Simulation (Research/Planning stage)
 16. Turtlebot2 (Progress Report coming soon)
@@ -51,6 +52,9 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 
 ## Sciurus17 Simulator
 ![Sciurus17_Gazebo](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_Gazebo.PNG)
+
+## NAO Simulator
+![Nao](https://github.com/robogeekcanada/noetic_robots/blob/main/images/nao_tutorial/nao_controller_camera.jpg)
 
 # Assumptions when using these Tutorials:
 
