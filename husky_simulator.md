@@ -4,7 +4,7 @@
 
 # Husky Simulator Installation ROS Noetic Tutorial
 
-Important Notice: As of October 15th, Husky has released an official [ROS Noetic version](http://wiki.ros.org/husky_simulator), so the tutorial below is no longer needed :partying_face:
+Important Notice: As of October 15th-2021, Husky has released an official [ROS Noetic version](http://wiki.ros.org/husky_simulator), so the tutorial below is no longer needed :partying_face:
 
 
 ## 1. Install Dependencies
