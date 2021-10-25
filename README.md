@@ -51,7 +51,7 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Baxter-RG-RN.gif)
 
 ## Sciurus17 Simulator
-![Sciurus17_Gazebo](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus17_Gazebo.PNG)
+![Sciurus17_Gazebo](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Sciurus-RG-RN.gif)
 
 ## NAO Simulator
 ![Nao](https://github.com/robogeekcanada/noetic_robots/blob/main/images/nao_tutorial/nao_controller_camera.jpg)
