@@ -36,7 +36,7 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Husky%20Simulator%20RG%20RN.gif)
 
 ## STDR Simulator
-![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/STDR_simulation.jpg)
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/STDR%20Simulator%20RG%20RN.gif)
 
 ## COPERNICUS Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Copernicus%20Simulation.PNG)
