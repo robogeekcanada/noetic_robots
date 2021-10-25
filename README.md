@@ -42,7 +42,7 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Copernicus-RG-RN.gif)
 
 ## TALOS Simulator
-![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/TALOS_partial_launches.PNG)
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Talos-Simulator-RG-RN.gif)
 
 ## Thormang3 Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/Thormang3_Simulation.PNG)
