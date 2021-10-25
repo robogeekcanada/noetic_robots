@@ -45,7 +45,7 @@ More to come so stay tuned. If you would like me to work on a particular robot, 
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Talos-Simulator-RG-RN.gif)
 
 ## Thormang3 Simulator
-![image](https://github.com/robogeekcanada/noetic_robots/blob/main/Thormang3_Simulation.PNG)
+![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Thormang3-RG-RN.gif)
 
 ## Baxter Simulator
 ![image](https://github.com/robogeekcanada/noetic_robots/blob/main/images/Baxter%20simulator.PNG)
