@@ -19,10 +19,10 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 10. Sciurus17 Simulation
 11. Nao robot Simulation
 12. Robonaut 2 Simulation (**ROS Noetic version available from TracLabs**)
-13. Pepper robot (Progress Report coming soon) 
-14. BipedRobin Simulation (Research/Planning stage)
-15. HiroNXO Simulation (Research/Planning stage)
-16. Turtlebot2 (Progress Report coming soon)
+13. Turtlebot (**Progress Report now available**)
+14. Pepper robot (Progress Report coming soon) 
+15. BipedRobin Simulation (Research/Planning stage)
+16. HiroNXO Simulation (Research/Planning stage) 
 
 More to come so stay tuned. If you would like me to work on a particular robot, please send me a request and I will work on it on my spare time. I list the robot simulations that are work in progress. It usually takes me 2-5 days to get them working. It all depends on my time availability and complexity. If you would like to contribute, that's also very welcome, send me a message to osilva@robogeekcanada.com and we can figure out how. 
 
