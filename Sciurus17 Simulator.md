@@ -6,6 +6,8 @@
 
 [Sciurus17](http://wiki.ros.org/sciurus17) is an upper-body humanoid robot equipped with 17 axes for the whole body and 19 axes for both hands. With a depth camera on the head and an RGB camera on the chest as standard equipment, you can immediately start advanced manipulation tasks that utilize image recognition.
 
+**As of Nov 11, 2021, an official version is now available: https://github.com/rt-net/sciurus17_ros)**
+
 ## 1. SCIURUS17 ROS REPO
 [Sciurus17 repo](https://github.com/rt-net/sciurus17_ros) is written in Japanese. If you are using Google Chrome, right click and select Translate to English. It looks like the last build was for ROS Kinetic but the repo is actively maintained. And per recommended environment it looks that there is also a working Melodic version which is good news as Noetic upgrades are easy from Melodic. Time will tell.
 
