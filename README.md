@@ -16,7 +16,7 @@ The tutorials have been tested in **Linux** and **WSL**. Currently contributing 
 7. TALOS Simulation
 8. Thormang3 Simulation
 9. Baxter Simulation
-10. Sciurus17 Simulation
+10. Sciurus17 Simulation (**official version now available**)
 11. Nao robot Simulation
 12. Robonaut 2 Simulation (**ROS Noetic version available from TracLabs**)
 13. Turtlebot (**Progress Report now available**)
